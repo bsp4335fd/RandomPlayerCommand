@@ -1,0 +1,19 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Functions that gives the player random items or effects.",
+        "name": "Random Player Commands",
+        "uuid": "1886d01d-d56b-4c87-b79e-3a71425ad28c",
+        "min_engine_version": [ 1,8,0 ],
+        "version": [1, 0, 0]
+    },
+    "mi_engine_version": [ 1,8,0 ],
+    "modules": [
+        {
+            "description": "Functions that gives the player random items or effects.",
+            "type": "data",
+            "uuid": "f1b33314-1722-47de-b8db-e6ebded0aa1d",
+            "version": [0, 0, 1]
+        }
+    ]
+}
