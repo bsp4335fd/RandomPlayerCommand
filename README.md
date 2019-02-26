@@ -6,11 +6,11 @@ Some helpful commands for randomness.
 
 Extract and place the folder named RandomPlayerCommands in the the folder, and change where <user name> to your home/Users directory name.
   
-C:\Users\<user name>\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\behavior_packs
+C:\Users\ <user name> \AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\behavior_packs
   
 *To develop your own behavior pack ideas use,*
 
-C:\Users\<user name>\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_behavior_packs
+C:\Users\ <user name> \AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_behavior_packs
 
 ## Behavior Pack Functions
 
